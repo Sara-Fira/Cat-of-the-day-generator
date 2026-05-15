@@ -26,6 +26,7 @@ When you run the program, it:
 ## 🧪 Example output
 
 🐱 Cat of the Day:
+
 Name: Max  
 Color: ginger  
 Mood: sleepy  
